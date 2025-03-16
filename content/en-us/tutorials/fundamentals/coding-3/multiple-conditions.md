@@ -260,7 +260,7 @@ If you don't see the silver and bronze metals appear, try one of the below.
 
 - Each `elseif` should have a then after its condition.
 - In `partTouched()`, make sure the second condition of the if statement uses `==`, like in `raceActive == true`.
-- Check that each `elseif` is in scope. Each `elseif` condition must be between the first line of the if/then statement and it's last `end`.
+- Check that each `elseif` is in scope. Each `elseif` condition must be between the first line of the if/then statement and its last `end`.
 
 ### Add the else condition
 
